@@ -1,3 +1,29 @@
 #exclude everything except file .bash_profile
-!.bash_profile
+.DS_Store
+	.bash_history
+	.bash_sessions/
+	.cache/
+	.config/
+	.exe/
+	.git-completion.sh
+	.lilypond-fonts.cache-2/
+	.mplayer/
+	.oracle_jre_usage/
+	.rnd
+	.sh_history
+	.spumux/
+	.subversion/
+	.vim/
+	.viminfo
+	Applications/
+	CmapToolsLogs/
+	Desktop/
+	Documents/
+	Downloads/
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	VirtualBox VMs/
 
