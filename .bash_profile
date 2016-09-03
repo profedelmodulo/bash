@@ -1,4 +1,6 @@
  ~/.bashrc ]] && source ~/.bashrc
+#ALIAS
+
 
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
